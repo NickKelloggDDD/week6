@@ -5,6 +5,7 @@
   "scripts": {},
   "author": "",
   "dependencies": {
+    "chalk": "^4.1.1",
     "firebase": "^8.2.0",
     "neat-csv": "^6.0.1",
     "node-fetch": "^2.6.1"
